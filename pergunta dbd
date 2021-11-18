@@ -1,6 +1,0 @@
-$nomention
-$title[🔮 | Pergunta de **$username**]
-$description[___Pergunta___: **$noMentionMessage** 
-___Resposta___: $randomText[**Sim**;**Não**]]
-$argsCheck[>1;:x: **Me Faça Uma Pergunta usando** ```g!perguntar(pergunta)```]
-$color[#00FF00]
